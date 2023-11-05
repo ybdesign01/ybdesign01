@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybdesign01&label=Profile%20views&color=0e75b6&style=flat" alt="ybdesign01" /> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://linkedin.com/in/yasserbenali01" target="blank">be.net/ybdesign01</a>
+- 👨‍💻 All of my projects are available at <a href="https://linkedin.com/in/yasserbenali01" target="_blank">be.net/ybdesign01</a>
 
 - 📫 How to reach me **ybdesign01@gmail.com**
 
