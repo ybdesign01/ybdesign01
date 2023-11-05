@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Yasser Benali aka YB Design, a Fullstack Web/Mobile developer, UI/UX and Graphic Designer.
 
+https://linktr.ee/ybdesign01
+
+-📫 How to reach me: ybdesign01@gmail.com
 <!--
 **ybdesign01/ybdesign01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
