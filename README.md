@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybdesign01&label=Profile%20views&color=0e75b6&style=flat" alt="ybdesign01" /> </p>
 
-- 👨‍💻 All of my projects are available at [be.net/ybdesign01](be.net/ybdesign01)
+- 👨‍💻 All of my projects are available at [https://be.net/ybdesign01](be.net/ybdesign01)
 
 - 📫 How to reach me **ybdesign01@gmail.com**
 
