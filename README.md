@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybdesign01&label=Profile%20views&color=0e75b6&style=flat" alt="ybdesign01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ybdesign01" alt="ybdesign01" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [be.net/ybdesign01](be.net/ybdesign01)
 
 - 📫 How to reach me **ybdesign01@gmail.com**
