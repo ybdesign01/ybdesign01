@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasser Benali aka YB Design</h1>
+<h1 align="center">Hi 👋, I'm Yasser aka YB Design</h1>
 <h3 align="center">A Fullstack Web/Mobile developer, UI/UX and Graphic Designer</h3>
 
 
