@@ -14,4 +14,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybdesign01&show_icons=true&locale=en&layout=compact" alt="ybdesign01" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ybdesign01&show_icons=true&locale=en" alt="ybdesign01" /></p>
 
+![](https://komarev.com/ghpvc/?username=ybdesign01)
 
+![](https://komarev.com/ghpvc/?username=ybdesign01&color=blueviolet)
